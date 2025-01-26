@@ -1,10 +1,16 @@
-# Rick and Morty GraphQL Application
+# Rick and Morty GraphQL App
 
-This project is a Rick and Morty application built with Next.js, TypeScript, ESLint, Tailwind CSS, and Apollo Client for GraphQL integration.
+This project queries the Rick and Morty GraphQL API to fetch and display episode data using pagination.
 
-## Steps to Set Up
+## Features
+
+- Fetch and display Rick and Morty episodes.
+- Pagination for navigating episodes.
+- Responsive design using Tailwind CSS.
+
+## Setup Instructions
 
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd alx-rick-and-morty-app
+   cd alx-graphql-0x02/alx-rick-and-morty-app
